@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @andrict05
+
+Currently migrated to GitLab:
 - 👀 Find me on [GitLab](https://gitlab.com/andrict05/)
 
 <!---
