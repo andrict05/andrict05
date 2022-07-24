@@ -1,8 +1,9 @@
 <h1 align="center">Hello 👋, I'm Tomislav </h1>
 
 ⚡Student & Coder:
-- 👨‍💻 Interested in JavaScript and Web related technologies
+- 👨‍💻 Interested in Web related technologies
 - 🌱 Actively learning new stuff
+- 🎯 Currently learning JavaScript
 <br>
 
 #### 🛠️ Languages and Frameworks (expanding...🔃):
