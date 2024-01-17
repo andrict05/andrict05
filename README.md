@@ -2,7 +2,7 @@
 
 ⚡Student & Coder:
 - 👨‍💻 Interested in Web related technologies
-- 🌱 Actively learning new stuff
+- 🌱 Learning new stuff
 <!-- - 🎯 Currently learning JavaScript -->
 <br>
 
